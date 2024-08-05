@@ -13,7 +13,7 @@ pygame.display.set_caption('Car Game')
 
 # colors
 gray = (100, 100, 100)
-green = (20, 20, 20)
+green = (20, 250, 20)
 red = (200, 0, 0)
 white = (255, 255, 255)
 yellow = (255, 232, 0)
